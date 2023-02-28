@@ -1,3 +1,4 @@
+#### Predictive model for predicting whether or not a customer will cancel a booking based on the columns described below.
 
 ##### Booking_ID: unique identifier of each booking
 ##### no_of_adults: Number of adults
@@ -18,3 +19,5 @@
 ##### avg_price_per_room: Average price per day of the reservation; prices of the rooms are dynamic. (in euros)
 ##### no_of_special_requests: Total number of special requests made by the customer (e.g. high floor, view from the room, etc)
 ##### booking_status: Flag indicating if the booking was canceled or not.
+
+It is made in python in Google Colab
